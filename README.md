@@ -126,4 +126,4 @@ For more fine-grained logging levels settings, please refer to the [tracing subs
 
 ## How to contribute
 
-Please see the [contributing page](./CONTRIBUTING.md).
+Please see the [contributing page](./CONTRIBUTING.md).> I'm new to Anoma and would love to be part of the community and testnet.

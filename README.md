@@ -125,6 +125,7 @@ The default is set to `info` for all the modules, expect for Tendermint ABCI, wh
 For more fine-grained logging levels settings, please refer to the [tracing subscriber docs](https://docs.rs/tracing-subscriber/0.2.18/tracing_subscriber/struct.EnvFilter.html#directives) for more information.
 
 ## How to contribute
+
 Hi Anoma team 👋  
 I'm new to Anoma and very excited about this project!  
 I'd love to contribute to the community and be involved in the testnet.  

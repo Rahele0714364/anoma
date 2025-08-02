@@ -126,4 +126,7 @@ For more fine-grained logging levels settings, please refer to the [tracing subs
 
 ## How to contribute
 
-Please see the [contributing page](./CONTRIBUTING.md).
+Hi Anoma team 👋  
+I'm new to Anoma and very excited about this project!  
+I'd love to contribute to the community and be involved in the testnet.  
+Looking forward to learning and growing with this amazing ecosystem. 🌱✨
